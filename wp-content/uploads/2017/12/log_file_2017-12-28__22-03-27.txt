@@ -1,0 +1,46 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://themes.pixelwars.org/nfolio/demo-04
+Data file = /home3/vefali53/public_html/themes/nfolio/wp-content/themes/nfolio/admin/demo-data/01/content.xml
+Widget file = /home3/vefali53/public_html/themes/nfolio/wp-content/themes/nfolio/admin/demo-data/01/widgets.wie
+Customizer file = /home3/vefali53/public_html/themes/nfolio/wp-content/themes/nfolio/admin/demo-data/01/customizer.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - Categories - Imported
+Popular Posts [Top 10] - Trending Posts - Imported
+MailChimp Sign-Up Form - Subscribe To Newsletter - Imported
+
+Header Social Media Icons : 
+
+(nFolio) Social Media Icon - No Title - Imported
+(nFolio) Social Media Icon - No Title - Imported
+(nFolio) Social Media Icon - No Title - Imported
+(nFolio) Social Media Icon - No Title - Imported
+
+Footer Copyright Text : 
+
+Text - No Title - Imported
+
+Homepage Menu : 
+
+(nFolio) Homepage Menu Item - About Me - Imported
+(nFolio) Homepage Menu Item - Resume - Imported
+(nFolio) Homepage Menu Item - Portfolio - Imported
+(nFolio) Homepage Menu Item - blog - Imported
+(nFolio) Homepage Menu Item - Contact - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

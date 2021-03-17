@@ -1,0 +1,20 @@
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/muhammedanshad.ga
+Data file = C:\xampp\htdocs\muhammedanshad.ga/wp-content/uploads/2021/03/empathy.wordpress.2017-03-14.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!

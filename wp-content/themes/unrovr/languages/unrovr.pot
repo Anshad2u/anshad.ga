@@ -1,0 +1,822 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: unRovr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-09 16:40+0000\n"
+"POT-Revision-Date: Wed Jan 10 2018 20:19:56 GMT+0300 (Türkiye Standart Saati)"
+"\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:19
+#, php-format
+msgid "1 Comment %2$s"
+msgid_plural "%1$s Comments %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:52
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:6 admin/customizer-settings.php:363
+msgid "Classic Navigation Menu"
+msgstr ""
+
+#: functions.php:61
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:67
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:94
+msgid "at"
+msgstr ""
+
+#: functions.php:104
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:114 admin/post-meta.php:54
+msgid "Edit"
+msgstr ""
+
+#: functions.php:124
+msgid "Reply"
+msgstr ""
+
+#: functions.php:397
+msgid "type and hit enter"
+msgstr ""
+
+#: functions.php:398 functions.php:1086 admin/navigation-menu.php:37
+msgid "Search"
+msgstr ""
+
+#: functions.php:498
+msgid "all"
+msgstr ""
+
+#: functions.php:875
+msgid "Go To Link"
+msgstr ""
+
+#: functions.php:1017
+msgid "Client:"
+msgstr ""
+
+#: functions.php:1025
+msgid "Date:"
+msgstr ""
+
+#: functions.php:1033
+msgid "Services:"
+msgstr ""
+
+#: functions.php:1048
+msgid "Launch Project"
+msgstr ""
+
+#: functions.php:1083
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:1084
+msgid "Enter Keyword"
+msgstr ""
+
+#. Name of the template
+msgid "Full width"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: page_template-home.php:56
+msgid "Download CV"
+msgstr ""
+
+#: page_template-home.php:74
+msgid "Discover"
+msgstr ""
+
+#: page_template-home.php:152
+msgid "go to top"
+msgstr ""
+
+#. Name of the template
+msgid "Latest Posts"
+msgstr ""
+
+#: page_template-latest_posts.php:96 page_template-latest_posts.php:114
+msgid "See All Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Medium width"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio"
+msgstr ""
+
+#: admin/archive-title.php:15
+msgid "Category"
+msgstr ""
+
+#: admin/archive-title.php:22
+msgid "Posts Tagged"
+msgstr ""
+
+#: admin/archive-title.php:29
+msgid "Posts By"
+msgstr ""
+
+#: admin/archive-title.php:36
+msgid "Searched For"
+msgstr ""
+
+#: admin/archive-title.php:43
+msgid "Date Archives"
+msgstr ""
+
+#: admin/archive-title.php:52
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: admin/archive-title.php:56
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: admin/archive-title.php:60 admin/archive-title.php:69
+#: admin/archive-title.php:76
+msgid "Archives"
+msgstr ""
+
+#: admin/automatic-excerpt.php:5
+msgid "Read More"
+msgstr ""
+
+#: admin/automatic-excerpt.php:80
+msgid "Pages:"
+msgstr ""
+
+#: admin/content-none.php:14
+msgid "Whoops!"
+msgstr ""
+
+#: admin/content-none.php:18 admin/content-none.php:22
+msgid "Nothing Found"
+msgstr ""
+
+#: admin/content-none.php:33
+msgid "The page you are looking for was not found!"
+msgstr ""
+
+#: admin/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: admin/content-none.php:43
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+
+#: admin/customizer-settings.php:16
+msgid "Header Background Image"
+msgstr ""
+
+#: admin/customizer-settings.php:17 admin/customizer-settings.php:660
+msgid "Upload an image or choose from your media library."
+msgstr ""
+
+#: admin/customizer-settings.php:34
+msgid "Body Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:49
+msgid "Link Color"
+msgstr ""
+
+#: admin/customizer-settings.php:64
+msgid "Link Hover Color"
+msgstr ""
+
+#: admin/customizer-settings.php:79
+msgid "Primary Color"
+msgstr ""
+
+#: admin/customizer-settings.php:94
+msgid "Section Title Underline Color"
+msgstr ""
+
+#: admin/customizer-settings.php:109
+msgid "Body Font"
+msgstr ""
+
+#: admin/customizer-settings.php:124
+msgid "Body Font Size"
+msgstr ""
+
+#: admin/customizer-settings.php:143
+msgid "Headings Font"
+msgstr ""
+
+#: admin/customizer-settings.php:158
+msgid "Headings Font Size"
+msgstr ""
+
+#: admin/customizer-settings.php:177
+msgid "Headings Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:192
+msgid "Sub Headings Font"
+msgstr ""
+
+#: admin/customizer-settings.php:207
+msgid "Include All Font Weights (100-900)"
+msgstr ""
+
+#: admin/customizer-settings.php:208
+msgid "Bold/italic styles."
+msgstr ""
+
+#: admin/customizer-settings.php:214 admin/customizer-settings.php:352
+#: admin/customizer-settings.php:390 admin/customizer-settings.php:407
+#: admin/customizer-settings.php:520 admin/customizer-settings.php:541
+#: admin/customizer-settings.php:559
+msgid "Yes"
+msgstr ""
+
+#: admin/customizer-settings.php:215 admin/customizer-settings.php:353
+#: admin/customizer-settings.php:372 admin/customizer-settings.php:389
+#: admin/customizer-settings.php:408 admin/customizer-settings.php:464
+#: admin/customizer-settings.php:521 admin/customizer-settings.php:542
+#: admin/customizer-settings.php:560
+msgid "No"
+msgstr ""
+
+#: admin/customizer-settings.php:225
+msgid "Font Character Sets"
+msgstr ""
+
+#: admin/customizer-settings.php:226
+msgid "Some fonts support all character sets."
+msgstr ""
+
+#: admin/customizer-settings.php:240
+msgid "Latin Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:255
+msgid "Latin Characters (extended)"
+msgstr ""
+
+#: admin/customizer-settings.php:270
+msgid "Cyrillic Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:285
+msgid "Cyrillic Characters (extended)"
+msgstr ""
+
+#: admin/customizer-settings.php:300
+msgid "Greek Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:315
+msgid "Greek Characters (extended)"
+msgstr ""
+
+#: admin/customizer-settings.php:330
+msgid "Vietnamese Characters"
+msgstr ""
+
+#: admin/customizer-settings.php:345
+msgid "Sound Effects"
+msgstr ""
+
+#: admin/customizer-settings.php:370
+msgid "Yes - For all pages"
+msgstr ""
+
+#: admin/customizer-settings.php:371
+msgid "Yes - Only for homepage"
+msgstr ""
+
+#: admin/customizer-settings.php:382
+msgid "Mobile Zoom"
+msgstr ""
+
+#: admin/customizer-settings.php:400
+msgid "Ajax"
+msgstr ""
+
+#: admin/customizer-settings.php:401
+msgid "Ajax functionality for portfolio posts."
+msgstr ""
+
+#: admin/customizer-settings.php:418
+msgid "Google Map API Key"
+msgstr ""
+
+#: admin/customizer-settings.php:419
+msgid "Get an API key"
+msgstr ""
+
+#: admin/customizer-settings.php:419
+msgid "here"
+msgstr ""
+
+#: admin/customizer-settings.php:436
+msgid "Blog List Title Font Size"
+msgstr ""
+
+#: admin/customizer-settings.php:455
+msgid "Automatic Excerpt"
+msgstr ""
+
+#: admin/customizer-settings.php:462
+msgid "Yes - Only for standard format"
+msgstr ""
+
+#: admin/customizer-settings.php:463
+msgid "Yes - For all post formats"
+msgstr ""
+
+#: admin/customizer-settings.php:474
+msgid "Blog Navigation"
+msgstr ""
+
+#: admin/customizer-settings.php:481
+msgid "Older/Newer Links"
+msgstr ""
+
+#: admin/customizer-settings.php:482
+msgid "Numbered Pagination"
+msgstr ""
+
+#: admin/customizer-settings.php:492 admin/navigation-menu.php:64
+msgid "Back To Blog"
+msgstr ""
+
+#: admin/customizer-settings.php:493
+msgid "Link behaviour."
+msgstr ""
+
+#: admin/customizer-settings.php:499
+msgid "To Regular Blog"
+msgstr ""
+
+#: admin/customizer-settings.php:500
+msgid "To Grid Blog"
+msgstr ""
+
+#: admin/customizer-settings.php:513 admin/related-posts.php:39
+msgid "Related Posts"
+msgstr ""
+
+#: admin/customizer-settings.php:534 admin/sidebar.php:7
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:552 admin/sidebar.php:19
+msgid "Post Sidebar"
+msgstr ""
+
+#: admin/customizer-settings.php:573
+msgid "Primary Button Color"
+msgstr ""
+
+#: admin/customizer-settings.php:588
+msgid "Secondary Button Color"
+msgstr ""
+
+#: admin/customizer-settings.php:603
+msgid "Buttons Font Size"
+msgstr ""
+
+#: admin/customizer-settings.php:622
+msgid "Buttons Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:637
+msgid "Buttons Letter Spacing"
+msgstr ""
+
+#: admin/customizer-settings.php:659
+msgid "Card Image"
+msgstr ""
+
+#: admin/customizer-settings.php:675
+msgid "Card Image Mask Color"
+msgstr ""
+
+#: admin/customizer-settings.php:691
+msgid "Card Image Mask Opacity"
+msgstr ""
+
+#: admin/customizer-settings.php:711
+msgid "Description"
+msgstr ""
+
+#: admin/customizer-settings.php:727
+msgid "\"Download CV\" Button Text"
+msgstr ""
+
+#: admin/customizer-settings.php:743
+msgid "\"Download CV\" Button URL"
+msgstr ""
+
+#: admin/customizer-settings.php:761
+msgid "\"Download CV\" Button New Tab"
+msgstr ""
+
+#: admin/customizer-settings.php:762
+msgid "(Open in new tab.)"
+msgstr ""
+
+#: admin/customizer-settings.php:777
+msgid "\"Discover\" Button Text"
+msgstr ""
+
+#: admin/customizer-settings.php:793
+msgid "Intro Title Color"
+msgstr ""
+
+#: admin/customizer-settings.php:809
+msgid "Intro Title Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:825
+msgid "Intro Title Letter Spacing"
+msgstr ""
+
+#: admin/customizer-settings.php:845
+msgid "Intro Text Font Size"
+msgstr ""
+
+#: admin/customizer-settings.php:865
+msgid "Card Title Background Color"
+msgstr ""
+
+#: admin/customizer-settings.php:881
+msgid "Card Title Text Color"
+msgstr ""
+
+#: admin/customizer-settings.php:897
+msgid "Card Title Font Size"
+msgstr ""
+
+#: admin/customizer-settings.php:917
+msgid "Card Title Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:933
+msgid "Card Title Letter Spacing"
+msgstr ""
+
+#: admin/customizer-settings.php:953
+msgid "Menu Selected Item Color"
+msgstr ""
+
+#: admin/customizer-settings.php:969
+msgid "Grid Title Font Weight"
+msgstr ""
+
+#: admin/customizer-settings.php:985
+msgid "Grid Title Font Size"
+msgstr ""
+
+#: admin/customizer-settings.php:1005
+msgid "Grid Title Text Transform"
+msgstr ""
+
+#: admin/customizer-settings.php:1024
+msgid "Grid Title Letter Spacing"
+msgstr ""
+
+#: admin/customizer.php:148
+msgid "General"
+msgstr ""
+
+#: admin/customizer.php:149
+msgid "Theme general settings."
+msgstr ""
+
+#: admin/customizer.php:157
+msgid "Buttons"
+msgstr ""
+
+#: admin/customizer.php:158
+msgid "Theme buttons settings."
+msgstr ""
+
+#: admin/customizer.php:166
+msgid "Blog"
+msgstr ""
+
+#: admin/customizer.php:167
+msgid "Theme blog page settings."
+msgstr ""
+
+#: admin/customizer.php:175
+msgid "Single Post"
+msgstr ""
+
+#: admin/customizer.php:176
+msgid "Theme post page settings."
+msgstr ""
+
+#: admin/customizer.php:184
+msgid "Sidebar"
+msgstr ""
+
+#: admin/customizer.php:185
+msgid "Theme sidebar settings."
+msgstr ""
+
+#: admin/demo-import.php:10
+msgid "Demo 01"
+msgstr ""
+
+#: admin/demo-import.php:17
+msgid "Demo 02"
+msgstr ""
+
+#: admin/demo-import.php:24
+msgid "Demo 03"
+msgstr ""
+
+#: admin/demo-import.php:31
+msgid "Demo 04"
+msgstr ""
+
+#: admin/demo-import.php:38
+msgid "Demo 05"
+msgstr ""
+
+#: admin/demo-import.php:45
+msgid "Demo 06"
+msgstr ""
+
+#: admin/demo-import.php:52
+msgid "Demo 07"
+msgstr ""
+
+#: admin/demo-import.php:59
+msgid "Demo 08"
+msgstr ""
+
+#: admin/enqueue-inline-script.php:9
+msgid "This field is required."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:10
+msgid "Please fix this field."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:11
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:12
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:13
+msgid "Please enter a valid date."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:14
+msgid "Please enter a valid date ( ISO )."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:15
+msgid "Please enter a valid number."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:16
+msgid "Please enter only digits."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:17
+msgid "Please enter the same value again."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:18
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:19
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:20
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:21
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:22
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:23
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: admin/enqueue-inline-script.php:24
+msgid "Please enter a multiple of {0}."
+msgstr ""
+
+#: admin/enqueue-styles-scripts.php:32
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: admin/install-plugins.php:15
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/install-plugins.php:23
+msgid "Pixelwars Core"
+msgstr ""
+
+#: admin/install-plugins.php:34
+msgid "One Click Demo Import"
+msgstr ""
+
+#: admin/install-plugins.php:39
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: admin/install-plugins.php:44
+msgid "Loco Translate"
+msgstr ""
+
+#: admin/install-plugins.php:49
+msgid "Top 10 - Popular Posts"
+msgstr ""
+
+#: admin/install-plugins.php:54
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: admin/install-plugins.php:59
+msgid "SVG Support"
+msgstr ""
+
+#: admin/install-plugins.php:64
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: admin/navigation-archive.php:13
+msgid "Posts Navigation"
+msgstr ""
+
+#: admin/navigation-archive.php:14
+msgid "Prev"
+msgstr ""
+
+#: admin/navigation-archive.php:15
+msgid "Next"
+msgstr ""
+
+#: admin/navigation-archive.php:18
+msgid "Page"
+msgstr ""
+
+#: admin/navigation-archive.php:33
+msgid "Older Posts"
+msgstr ""
+
+#: admin/navigation-archive.php:38
+msgid "Newer Posts"
+msgstr ""
+
+#: admin/navigation-menu.php:25
+msgid "Home"
+msgstr ""
+
+#: admin/navigation-menu.php:52
+msgid "Back To Portfolio"
+msgstr ""
+
+#: admin/navigation-single.php:16
+msgid "Previous Image"
+msgstr ""
+
+#: admin/navigation-single.php:26
+msgid "Next Image"
+msgstr ""
+
+#: admin/navigation-single.php:73
+msgid "Previous Post"
+msgstr ""
+
+#: admin/navigation-single.php:81
+msgid "Next Post"
+msgstr ""
+
+#: admin/post-meta.php:26
+msgid "0 Comments"
+msgstr ""
+
+#: admin/post-meta.php:27
+msgid "1 Comment"
+msgstr ""
+
+#: admin/post-meta.php:28
+msgid "% Comments"
+msgstr ""
+
+#: admin/posts-columns.php:8
+msgid "Featured Image"
+msgstr ""
+
+#: admin/sidebar.php:9 admin/sidebar.php:21
+msgid "Add widgets."
+msgstr ""
+
+#: admin/sidebar.php:31
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/sidebar.php:33
+msgid "Add \"Text\" widget."
+msgstr ""
+
+#: admin/sidebar.php:43
+msgid "Header Social Media Icons"
+msgstr ""
+
+#: admin/sidebar.php:45
+msgid "Add \"Social Media Icon\" widget per icon."
+msgstr ""
+
+#: admin/sidebar.php:55
+msgid "Homepage Menu"
+msgstr ""
+
+#: admin/sidebar.php:57
+msgid ""
+"Navigation menu for Homepage template. Add \"Homepage Menu Item\" widget per "
+"link."
+msgstr ""
+
+#. Name of the theme
+msgid "unRovr"
+msgstr ""
+
+#. Description of the theme
+msgid "Responsive WordPress theme."
+msgstr ""
+
+#. URI of the theme
+msgid "https://themeforest.net/user/pixelwars/portfolio"
+msgstr ""
+
+#. Author of the theme
+msgid "Pixelwars"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/pixelwars"
+msgstr ""
