@@ -66,7 +66,7 @@ var _zxcvbnSettings = {"src":"https:\/\/anshad.ga\/wp-includes\/js\/zxcvbn.min.j
 <script src="https://anshad.ga/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
 <script src="https://anshad.ga/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
-wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
+wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
 <script id="password-strength-meter-js-extra">
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
